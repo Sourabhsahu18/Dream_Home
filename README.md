@@ -47,9 +47,3 @@
   }
 ]
 
-
-📬 Contact
-Made by Sourabh Sahu
-📍 Raipur, Chhattisgarh
-📧 sourabhsahu7415@gmail.com
-🔗 GitHub | LinkedIn
